@@ -1,0 +1,7 @@
+.nav-bar {
+  background-color: var(--color-purple);
+}
+
+.content {
+  min-height: calc(100vh - var(--height-nav-bar) - var(--height-footer));
+}
